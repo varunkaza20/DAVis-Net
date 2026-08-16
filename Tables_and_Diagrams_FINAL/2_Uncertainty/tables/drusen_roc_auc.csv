@@ -1,0 +1,5 @@
+Metric,ROC_AUC
+entropy,0.7502032617533119
+variation_ratio,0.5932413474261481
+mutual_info,0.7705095094616354
+confidence,0.7277249031517529

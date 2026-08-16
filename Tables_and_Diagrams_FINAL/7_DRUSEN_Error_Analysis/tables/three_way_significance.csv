@@ -1,0 +1,17 @@
+Metric,Test,Statistic,P_Value
+entropy,Kruskal-Wallis (3-group),68.68597823804703,1.2162681482505588e-15
+entropy,Correct vs Misclass_to_CNV,13222.0,3.4659909475418945e-09
+entropy,Correct vs Misclass_to_NORMAL,15148.0,1.4688606501626904e-08
+entropy,Misclass_to_CNV vs Misclass_to_NORMAL,1105.0,1.0
+confidence,Kruskal-Wallis (3-group),58.178237446452385,2.326784998335605e-13
+confidence,Correct vs Misclass_to_CNV,41580.0,7.138972909488635e-08
+confidence,Correct vs Misclass_to_NORMAL,43412.0,1.9565101010866333e-07
+confidence,Misclass_to_CNV vs Misclass_to_NORMAL,1114.0,1.0
+loc_score,Kruskal-Wallis (3-group),27.29388331963009,1.18360977255839e-06
+loc_score,Correct vs Misclass_to_CNV,40774.0,4.5578383617755813e-07
+loc_score,Correct vs Misclass_to_NORMAL,28440.0,1.0
+loc_score,Misclass_to_CNV vs Misclass_to_NORMAL,747.0,0.014133157718893598
+dist_from_center,Kruskal-Wallis (3-group),27.58059179339337,1.0255352395925516e-06
+dist_from_center,Correct vs Misclass_to_CNV,22178.0,0.049029723570335956
+dist_from_center,Correct vs Misclass_to_NORMAL,17925.0,6.260127826239509e-06
+dist_from_center,Misclass_to_CNV vs Misclass_to_NORMAL,847.0,0.11218625532932522

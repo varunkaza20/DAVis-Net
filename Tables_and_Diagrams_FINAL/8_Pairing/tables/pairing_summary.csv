@@ -1,0 +1,6 @@
+,entropy,entropy,entropy,confidence,confidence,confidence,loc_score,loc_score,loc_score
+,mean,std,count,mean,std,count,mean,std,count
+pairing_group,,,,,,,,,
+Singleton,0.2906,0.119,384,0.9129,0.0493,384,0.6439,0.1139,384
+CNV_DRUSEN,0.606,0.0627,84,0.7028,0.0788,84,0.6306,0.1099,84
+DRUSEN_NORMAL,0.6451,0.0682,43,0.675,0.0842,43,0.6639,0.0988,43

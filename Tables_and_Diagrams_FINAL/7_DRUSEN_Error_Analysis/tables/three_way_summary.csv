@@ -1,0 +1,6 @@
+,entropy,entropy,confidence,confidence,loc_score,loc_score,dist_from_center,dist_from_center
+,mean,std,mean,std,mean,std,mean,std
+group,,,,,,,,
+Correct,0.3582,0.1726,0.8676,0.1034,0.6367,0.117,0.1195,0.0715
+Misclass_to_CNV,0.5404,0.1872,0.7465,0.1445,0.486,0.1967,0.1427,0.0739
+Misclass_to_NORMAL,0.5322,0.1996,0.7526,0.1546,0.5913,0.2617,0.2281,0.1858

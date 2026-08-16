@@ -1,0 +1,5 @@
+pred_set,count
+"('CNV', 'DRUSEN')",84
+"('DRUSEN', 'NORMAL')",43
+"('DME', 'NORMAL')",2
+"('DME', 'DRUSEN')",1
