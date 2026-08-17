@@ -1,6 +1,6 @@
 # DAVis-Net: Reliable Retinal OCT Classification
 
-Official repository for the paper: *DAVis-Net: A Dual-Attention Deep Supervision Framework for Trustworthy OCT B-Scan Classification with Integrated Explainability and Uncertainty Quantification*
+Official repository for the research work: *DAVis-Net: A Dual-Attention Deep Supervision Framework for Reliable OCT Image Classification with Integrated Explainability and Uncertainty Quantification*
 
 ---
 
